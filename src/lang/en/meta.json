@@ -1,0 +1,27 @@
+{
+    "_routes": "",
+    "myMessage": "Hello",
+    "IndexRoute": "Andrey Shibaev",
+    "ResumeRoute": "Resume",
+    "ProjectsRoute": "Projects",
+    "StatsRoute": "Stats",
+    "ContactRoute": "Contacts",
+    "SwitchLanguageRoute": "На русском",
+    "AboutRoute": "About",
+    "_routes": "",
+
+    "__about": "",
+    "AboutMessage": "A few about me",
+    "Contact": "Contacts",
+    "ContactMessage": "You can email me at:",
+    "Me": "Andrey Shibaev",
+    "__about": "",
+
+    "__resume":"",
+    "ResumeEducation" : "Образование",
+    "ResumeExperience": "Опыт работы",
+    "ResumeSkills": "Навыки",
+    "ResumeCourses": "Курсы",
+    "ResumeReferences": "Разное",
+    "__resume":""
+}

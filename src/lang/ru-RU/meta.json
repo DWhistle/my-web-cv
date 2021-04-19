@@ -1,0 +1,23 @@
+{
+    "myMessage": "Привет",
+    "IndexRoute": "Андрей Шибаев",
+    "ResumeRoute": "Резюме",
+    "ProjectsRoute": "Проекты",
+    "StatsRoute": "Статистика",
+    "ContactRoute": "Контакты",
+    "SwitchLanguageRoute": "Switch to English",
+    "AboutRoute": "Био",
+    "AboutMessage": "Немного обо мне",
+    "Contact": "Контакты",
+    "ContactMessage": "Моя основная почта:",
+    "Me": "Андрей Шибаев",
+
+
+    "__resume":"",
+    "ResumeEducation" : "Образование",
+    "ResumeExperience": "Опыт работы",
+    "ResumeSkills": "Навыки",
+    "ResumeCourses": "Курсы",
+    "ResumeReferences": "Разное",
+    "__resume":""
+}
