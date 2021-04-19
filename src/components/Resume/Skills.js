@@ -75,8 +75,8 @@ class Skills extends Component {
         <div className="link-to" id="resumeskills" />
         <div className="title">
           <h3><FormattedMessage id="ResumeSkills"></FormattedMessage></h3>
-          <p>Note: I think these sections are silly, but everyone seems to have one.
-            Here is a *mostly* honest overview of my skills.
+          
+          <p><b><FormattedMessage id="ResumePS"></FormattedMessage>: </b><FormattedMessage id="ResumePSText"></FormattedMessage>
           </p>
         </div>
         <div className="skill-button-container">
