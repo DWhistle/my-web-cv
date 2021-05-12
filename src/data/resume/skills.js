@@ -26,12 +26,22 @@ const skills = [
     category: ['Concepts']
   },
   {
-    title: 'Spring',
+    title: 'Spring Core',
     competency: 4,
     category: ['Web Development', 'Java'],
   },
   {
     title: 'Spring Data',
+    competency: 3,
+    category: ['Web Development', 'Java'],
+  },
+  {
+    title: 'Spring MVC',
+    competency: 4,
+    category: ['Web Development', 'Java'],
+  },
+  {
+    title: 'Spring Boot',
     competency: 3,
     category: ['Web Development', 'Java'],
   },
@@ -46,7 +56,7 @@ const skills = [
     category: ['Web Development', 'Languages'],
   },
   {
-    title: 'Bash',
+    title: 'Shell',
     competency: 3,
     category: ['Tools', 'Languages'],
   },
@@ -83,6 +93,16 @@ const skills = [
   {
     title: 'Git',
     competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'Maven',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'Gradle',
+    competency: 2,
     category: ['Tools'],
   },
   {
