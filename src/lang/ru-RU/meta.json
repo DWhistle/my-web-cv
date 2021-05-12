@@ -1,4 +1,5 @@
 {
+    "_routes": "",
     "myMessage": "Привет",
     "IndexRoute": "Андрей Шибаев",
     "ResumeRoute": "Резюме",
@@ -7,11 +8,14 @@
     "ContactRoute": "Контакты",
     "SwitchLanguageRoute": "Switch to English",
     "AboutRoute": "Био",
+    "_routes": "",
+
+    "__about": "",
     "AboutMessage": "Немного обо мне",
     "Contact": "Контакты",
     "ContactMessage": "Моя основная почта:",
     "Me": "Андрей Шибаев",
-
+    "__about": "",
 
     "__resume":"",
     "ResumeEducation" : "Образование",
@@ -20,7 +24,6 @@
     "ResumeCourses": "Курсы",
     "ResumeReferences": "Разное",
     "ResumePS": "Важная ремарка",
-    "ResumePSText": "Cчитаю абсолютное знание невозможным в любой из этих областей, все оценки относитительны и субъективны",
-
+    "ResumePSText": "считаю абсолютное знание невозможным в любой из этих областей, все оценки относитительны и субъективны",
     "__resume":""
 }
