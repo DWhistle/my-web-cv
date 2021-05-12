@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-web-cv"]=this["webpackJsonpmy-web-cv"]||[]).push([[9],{205:function(e,t,c){"use strict";c.r(t);var s=c(61),n=c(1),r=c(0),a=c(13),i=c(31),b=c(63),j=c.n(b),u=c(62);t.default=function(){var e=Object(r.useContext)(i.a);return Object(n.jsx)(u.a,{description:"My site",children:Object(n.jsx)("article",{className:"post",id:"index",children:Object(n.jsx)(j.a,{source:e.getTextTemplate("SITE"),renderers:{Link:function(e){var t=Object.assign({},e);return Object(n.jsx)(a.b,Object(s.a)({},t))}},escapeHtml:!1})})})}}}]);
+//# sourceMappingURL=9.a3a5889b.chunk.js.map
