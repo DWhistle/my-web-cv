@@ -82,7 +82,12 @@ const skills = [
   },
   {
     title: 'Flask',
-    competency: 2,
+    competency: 3,
+    category: ['Web Development', 'Python'],
+  },
+  {
+    title: 'SQLAlchemy',
+    competency: 3,
     category: ['Web Development', 'Python'],
   },
   {
