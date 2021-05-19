@@ -18,10 +18,13 @@
     "__about": "",
 
     "__resume":"",
-    "ResumeEducation" : "Образование",
-    "ResumeExperience": "Опыт работы",
-    "ResumeSkills": "Навыки",
-    "ResumeCourses": "Курсы",
-    "ResumeReferences": "Разное",
+    "ResumeEducation" : "Education",
+    "ResumeExperience": "Experience",
+    "ResumeSkills": "Skills",
+    "ResumeCourses": "Courses",
+    "ResumeReferences": "Stuff",
+    "ResumePS": ":",
+    "ResumePSText": ":",
+
     "__resume":""
 }
