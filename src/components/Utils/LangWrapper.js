@@ -6,15 +6,18 @@ import TEMPLATES from '../../lang/texts.js';
 import raw from 'raw.macro';
 
 
-const local = navigator.language.toLocaleLowerCase()
+let local = navigator.language.toLocaleLowerCase()
+const RUSSIAN_LOCALES_OPTIONS = ['ru-ru', 'ru']
 const RUSSIAN_LOCALE = 'ru-ru'
 const ENGLISH_LOCALE = 'en'
 let lang;
-if (local === RUSSIAN_LOCALE)
+if (RUSSIAN_LOCALES_OPTIONS.find((lang, i, arr) => lang === local))
 {
     lang = Russian;
+    local = RUSSIAN_LOCALE;
 } else {
     lang = English;
+    local = ENGLISH_LOCALE;
 }
 export const AppStateContext = createContext(null);
 
