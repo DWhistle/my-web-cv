@@ -2,7 +2,7 @@
     "compilerOptions": {
         "baseUrl": "./src",
         "paths": {
-            "langs/*": ["./lang/*"]
+            "langs/*": ["./src/lang/*"]
           }
     }
 }

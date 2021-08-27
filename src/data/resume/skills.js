@@ -6,8 +6,13 @@ const skills = [
     category: ['Web Development', 'Languages'],
   },
   {
+    title: 'Scala',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
+  },
+  {
     title: 'Multithreading',
-    competency: 2,
+    competency: 3,
     category: ['Concepts']
   },
   {

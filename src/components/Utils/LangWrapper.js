@@ -1,8 +1,8 @@
 import {createContext, useState} from 'react';
 import {IntlProvider} from 'react-intl';
-import English from '../../lang/en/meta.json';
-import Russian from '../../lang/ru-ru/meta.json';
-import TEMPLATES from '../../lang/texts.js';
+import English from 'lang/en/meta.json';
+import Russian from 'lang/ru-ru/meta.json';
+import TEMPLATES from 'lang/texts.js';
 import raw from 'raw.macro';
 
 
