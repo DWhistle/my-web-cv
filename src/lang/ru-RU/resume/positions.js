@@ -15,7 +15,7 @@ const positions = [
   },
   {
     company: 'Ticketland',
-    position: 'Java-разработчик',
+    position: 'Java-разработчик & Техлид',
     link: 'https://www.ticketland.ru',
     daterange: 'Апрель 2020 - Июнь 2021',
     points: [
