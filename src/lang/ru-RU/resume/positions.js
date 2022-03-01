@@ -27,11 +27,11 @@ const positions = [
   },
   {
     company: 'Ticketland',
-    position: 'Junior-разработчик',
+    position: 'Middle-разработчик',
     link: 'https://www.ticketland.ru',
     daterange: 'Октябрь 2019 - Апрель 2020',
     points: [
-      'Написал 2 клиента для интеграции с внешними партнёрами',
+      'Писал клиенты для интеграции с внешними партнёрами',
       'Спроектировал и написал несколько внутренних утилитарных сервисов на Python',
       'Программировал логику сложных бизнес-процессов',
       'Увеличил покрытие тестами с 10 до 40% для важного бизнес-функционала'
@@ -39,7 +39,7 @@ const positions = [
   },
   {
     company: 'Ticketland',
-    position: 'Стажер',
+    position: 'Junior-разработчик',
     link: 'https://www.ticketland.ru',
     daterange: 'Июнь 2019 - Октябрь 2019',
     points: [
