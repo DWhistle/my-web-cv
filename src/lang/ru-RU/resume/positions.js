@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'Yandex.Verticals',
-    position: 'Middle Scala-разработчик',
+    position: 'Backend-разработчик',
     link: 'https://auto.ru/',
     daterange: 'Июль 2021 - Настоящий момент',
     points: [
@@ -9,12 +9,13 @@ const positions = [
       'Оптимизировал latency наиболее прибыльного бэкенда на 70%',
       'Разрабатывал инфраструктурные компоненты',
       'Разрабатывал многопоточные компоненты',
-      'В данные момент разрабатываю экспериментальные фичи'
+      'Разрабатывал высоконагруженные компоненты',
+      'В данный момент разрабатываю экспериментальные фичи'
      ],
   },
   {
     company: 'Ticketland',
-    position: 'Middle-разработчик',
+    position: 'Java-разработчик',
     link: 'https://www.ticketland.ru',
     daterange: 'Апрель 2020 - Июнь 2021',
     points: [

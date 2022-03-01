@@ -7,17 +7,22 @@ const skills = [
   },
   {
     title: 'Scala',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Multithreading',
-    competency: 3,
+    competency: 4,
     category: ['Concepts']
   },
   {
     title: 'Design Patterns',
     competency: 3,
+    category: ['Concepts']
+  },
+  {
+    title: 'Distributed Computing',
+    competency: 4,
     category: ['Concepts']
   },
   {
