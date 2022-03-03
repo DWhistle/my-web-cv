@@ -19,7 +19,7 @@ const Contact = () => {
         </div>
       </header>
       <div className="email-at">
-        <p><FormattedMessage id = "ContactMessage"/>  <a href="mailto:shibaev.rus1@gmail.com">shibaev.rus1@gmail.com</a></p>
+        <p><FormattedMessage id = "ContactMessage"/>  <a href="mailto:andrw.shibaev@gmail.com">andrw.shibaev@gmail.com</a></p>
       </div>
       <ContactIcons />
     </article>
