@@ -1,7 +1,3 @@
-# STOP THE WAR!
-
----
-
 ## A word on this site
 
 This is a react app I've gently borrowed at the github platform expances, \
