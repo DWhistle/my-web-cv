@@ -11,52 +11,42 @@ const skills = [
     category: ['Web Development', 'Languages'],
   },
   {
+    title: 'Kafka',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'Zookeeper',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Cloud solutions',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
     title: 'Multithreading',
     competency: 4,
     category: ['Concepts']
   },
   {
-    title: 'Design Patterns',
+    title: 'Database Design',
     competency: 3,
     category: ['Concepts']
   },
   {
-    title: 'Distributed Computing',
-    competency: 4,
-    category: ['Concepts']
-  },
-  {
-    title: 'Database Design',
+    title: 'Distributed computing',
     competency: 4,
     category: ['Concepts']
   },
   {
     title: 'Application Design',
-    competency: 4,
+    competency: 5,
     category: ['Concepts']
   },
   {
-    title: 'Spring Core',
-    competency: 4,
-    category: ['Web Development', 'Java'],
-  },
-  {
-    title: 'Spring Data',
-    competency: 3,
-    category: ['Web Development', 'Java'],
-  },
-  {
-    title: 'Spring MVC',
-    competency: 4,
-    category: ['Web Development', 'Java'],
-  },
-  {
-    title: 'Spring Boot',
-    competency: 3,
-    category: ['Web Development', 'Java'],
-  },
-  {
-    title: 'Spring JDBC',
+    title: 'Spring',
     competency: 4,
     category: ['Web Development', 'Java'],
   },
@@ -67,12 +57,12 @@ const skills = [
   },
   {
     title: 'Shell',
-    competency: 3,
+    competency: 4,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Redis',
-    competency: 3,
+    competency: 4,
     category: ['Databases'],
   },
   {
@@ -81,13 +71,13 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Microsoft SQLServer',
-    competency: 4,
-    category: ['Web Development', 'Databases'],
+    title: 'NoSQL',
+    competency: 3,
+    category: ['Databases'],
   },
   {
     title: 'SQL',
-    competency: 4,
+    competency: 5,
     category: ['Databases', 'Languages'],
   },
   {
@@ -97,12 +87,12 @@ const skills = [
   },
   {
     title: 'SQLAlchemy',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Python'],
   },
   {
     title: 'Pandas',
-    competency: 2,
+    competency: 3,
     category: ['Python', 'Data'],
   },
   {
