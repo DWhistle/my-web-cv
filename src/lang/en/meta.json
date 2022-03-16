@@ -23,8 +23,8 @@
     "ResumeSkills": "Skills",
     "ResumeCourses": " ",
     "ResumeReferences": " ",
-    "ResumePS": ":",
-    "ResumePSText": ":",
+    "ResumePS": " ",
+    "ResumePSText": " ",
 
     "__resume":""
 }
