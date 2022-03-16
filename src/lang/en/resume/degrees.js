@@ -18,6 +18,7 @@ const degrees = [
       'Came through the selection with no initial programming knowledge', 
       'Learned С programming, classic algorithms and data structures',
       'Worked with graphics, ray and path tracing',
+      'Developed Java projects, encompassing Swing, Spring, Databases'
     ]
   },
   {
