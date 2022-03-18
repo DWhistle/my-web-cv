@@ -103,12 +103,12 @@ const skills = [
   {
     title: 'Maven',
     competency: 4,
-    category: ['Tools'],
+    category: ['Tools', 'Java'],
   },
   {
     title: 'Gradle',
     competency: 2,
-    category: ['Tools'],
+    category: ['Tools', 'Java'],
   },
   {
     title: 'Jupyter',
