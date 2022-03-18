@@ -27,7 +27,7 @@ const degrees = [
     link: 'https://www.iu.org',
     year: '2021-now',
     points: [
-      'Learning CS-related features alongside with economical aspects of business'
+      'Learning CS-related features alongside with the economic aspects of business'
     ]
   },
 ];
