@@ -40,8 +40,8 @@ const Resume = () => {
   
           </div>
         </header>
-        <Education data={require(`lang/${context.locale}/resume/degrees`).default} />
         <Experience data={require(`lang/${context.locale}/resume/positions`).default} />
+        <Education data={require(`lang/${context.locale}/resume/degrees`).default} />
         <Skills skills={skills} categories={categories} />
         <References />
   

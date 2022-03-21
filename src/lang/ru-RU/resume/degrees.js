@@ -19,13 +19,13 @@ const degrees = [
     'Работал с графикой, алгоритмами отрисовки и трассировкой пути, линейной алгеброй',
     'Параллельно с учебой организовывал и проводил занятия в кружке обучения разговорному английскому']
   },
-  {
-    school: 'IU Internationale Hochschule',
-    degree: 'IT & Business',
-    link: 'https://www.iu.org',
-    year: '2021-настоящее время',
-    points: []
-  },
+  // {
+  //   school: 'IU Internationale Hochschule',
+  //   degree: 'IT & Business',
+  //   link: 'https://www.iu.org',
+  //   year: '2021-настоящее время',
+  //   points: []
+  // },
 ];
 
 export default degrees;

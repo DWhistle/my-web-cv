@@ -5,9 +5,8 @@ const positions = [
     link: 'https://yandex.ru/',
     daterange: 'July 2021 - Present',
     points: [
-      'Learned Scala from scratch within 5 months',
       'Optimized the latency of the most profit-generating backend application by 70%',
-      'Developed infrastrucural components',
+      'Developed distributed batch-processing applications',
       'Developed concurrent components',
       'Developed highloaded components',
       "Currently taking part in a development of the company's internal startup"
@@ -30,7 +29,7 @@ const positions = [
     link: 'https://www.ticketland.ru',
     daterange: 'October 2019 - April 2020',
     points: [
-      'Designed and built services from scratch',
+      'Designed and built Spring REST-services from scratch',
       'Programmed the logic of complicated business processes',
       'Increased payment logic tests coverage by 40%'
      ],
@@ -44,6 +43,17 @@ const positions = [
       'Worked with xlsx-processing',
       'Built simple logic',
       'Fixed bugs'
+      ],
+  },
+  {
+    company: 'Ecole42',
+    position: 'Developer Intern',
+    link: 'https://www.42.fr',
+    daterange: 'September 2018 - May 2019',
+    points: [
+      'Programmed scripts for data processing',
+      'Was responsible for service maintenance',
+      'Built bash/python scripts'
       ],
   },
 ];

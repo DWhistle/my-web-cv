@@ -21,15 +21,15 @@ const degrees = [
       'Developed Java projects, encompassing Swing, Spring, Databases'
     ]
   },
-  {
-    school: 'IU Internationale Hochschule',
-    degree: 'IT & Business',
-    link: 'https://www.iu.org',
-    year: '2021-now',
-    points: [
-      'Learning CS-related features alongside with the economic aspects of business'
-    ]
-  },
+  // {
+  //   school: 'IU Internationale Hochschule',
+  //   degree: 'IT & Business',
+  //   link: 'https://www.iu.org',
+  //   year: '2021-now',
+  //   points: [
+  //     'Learning CS-related features alongside with the economic aspects of business'
+  //   ]
+  // },
 ];
 
 export default degrees;
