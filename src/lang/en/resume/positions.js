@@ -9,7 +9,8 @@ const positions = [
       'Developed distributed batch-processing applications',
       'Developed concurrent components',
       'Developed highloaded components',
-      "Currently taking part in a development of the company's internal startup"
+      'Built scripts for Data Analysis in Python',
+      "Currently taking part in a development of the company's internal startup",
      ],
   },
   {
