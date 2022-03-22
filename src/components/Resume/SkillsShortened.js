@@ -13,8 +13,8 @@ const SkillsShortened = (data) => {
       <div className="link-to" id="references" />
       <ul className="skills">
         {data.skills
-          .sort((s1, s2) => s2.competency - s1.competency)
           .filter((s) => s.competency >= 3)
+          .sort((s1, s2) => s2.competency - s1.competency)
           .map((s) => (
             <SkillShortcut data={s["title"]} key={s["title"]}></SkillShortcut>
           ))}
