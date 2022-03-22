@@ -45,7 +45,7 @@ const Resume = () => {
       var heightLeft = imgHeight;
       while (heightLeft >= 0) {
         position = heightLeft - imgHeight;
-        doc.addImage(imgData, "PNG", 0, position, imgWidth, imgHeight);
+        doc.addImage(imgData, "PNG", 0, position, imgWidth, imgHeight, position, "MEDIUM");
         heightLeft -= pageHeight;
         if (heightLeft >= 0) doc.addPage();
       }
