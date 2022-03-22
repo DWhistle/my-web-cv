@@ -8,7 +8,7 @@ const positions = [
       "Optimized the latency of the most profit-generating backend application by 70%",
       "Developed distributed batch-processing applications",
       "Developed concurrent components",
-      "Developed highloaded components",
+      "Developed highloaded services for hundreds of thousands of users",
       "Built scripts for Data Analysis in Python",
       "Currently taking part in a development of the company's internal startup",
     ],
