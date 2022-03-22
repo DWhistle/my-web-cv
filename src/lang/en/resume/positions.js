@@ -9,8 +9,8 @@ const positions = [
       "Developed distributed batch-processing applications",
       "Developed concurrent components",
       "Developed highloaded services for hundreds of thousands of users",
-      "Built scripts for Data Analysis in Python",
-      "Currently taking part in a development of the company's internal startup",
+      "Tremendously enhanced the UX of the main product by doing its data unification via Python",
+      "Was chosen to develop the most promising product of the business unit",
     ],
   },
   {
