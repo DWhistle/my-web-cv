@@ -5,13 +5,14 @@ enriching it with change of language for each of the pages and markdown text ren
 
 **Why?**
 
-Just got rid of rewritting my resume from scratch and moving 
+Just got rid of rewritting my resume from scratch and moving
 it from one cloud storage to another, \
 now everything is gonna be here
 
-
 ---
+
 ## TODO:
-- List of my completed projects 
+
+- List of my completed projects
 - Something blog-like
 - Full translation to English - DONE
