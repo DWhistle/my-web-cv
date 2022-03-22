@@ -49,7 +49,7 @@ const Resume = () => {
         heightLeft -= pageHeight;
         if (heightLeft >= 0) doc.addPage();
       }
-      doc.save("file.pdf");
+      doc.save("Andrey_Shibaev_CV.pdf");
     });
   };
 
