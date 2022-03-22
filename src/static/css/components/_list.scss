@@ -72,13 +72,12 @@ ul {
     li {
       display: inline-block;
       padding: 0 1em 0 1em;
-      border-width: 0.5px;
       justify-content: center;
       align-items: center;
       border-radius: 10px;
 	  margin-right: 0.1em;
 	  margin-bottom: 0.1em;
-	  border: solid rgb(168, 168, 168);
+	  border: 1px solid rgb(168, 168, 168);
     }
   }
 
