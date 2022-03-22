@@ -72,8 +72,8 @@ const Resume = () => {
                 </h4>
               ))}
               <button onClick={DownloadPdf}>Download as PDF</button>
-              <SkillsShortened skills={skills}></SkillsShortened>
             </div>
+            <SkillsShortened skills={skills}></SkillsShortened>
           </div>
         </header>
         <Experience
