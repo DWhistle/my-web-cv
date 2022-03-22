@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-web-cv"]=this["webpackJsonpmy-web-cv"]||[]).push([[12],{344:function(t,e,c){"use strict";c.r(e);var n=c(0),s=c(30),u=c(6),a=c(2);e.default=function(){var t=Object(n.useContext)(s.a);return Object(n.useEffect)((function(){t.switchLanguage()})),Object(a.jsx)(u.a,{to:"/"})}}}]);
+//# sourceMappingURL=12.333c1891.chunk.js.map
