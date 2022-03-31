@@ -24,8 +24,8 @@
   "ResumeCourses": " ",
   "ResumeReferences": " ",
   "ResumeDownload": "Download as PDF",
-  "ResumePS": " ",
-  "ResumePSText": " ",
+  "ResumePS": "Disclaimer",
+  "ResumePSText": "All the estimates are relative",
 
   "__resume": ""
 }
