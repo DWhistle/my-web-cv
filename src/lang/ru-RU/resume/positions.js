@@ -51,7 +51,7 @@ const positions = [
     company: "Ecole42",
     position: "Стажер",
     link: "https://www.42.fr",
-    daterange: "September 2018 - May 2019",
+    daterange: "Сентябрь 2018 - Май 2019",
     points: [],
   },
 ];
