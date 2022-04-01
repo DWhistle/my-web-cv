@@ -52,7 +52,10 @@ const positions = [
     position: "Стажер",
     link: "https://www.42.fr",
     daterange: "Сентябрь 2018 - Май 2019",
-    points: [],
+    points: [
+      "Писал простые скрипты на Bash/Python",
+      "Отвечал за мониторинг сервисов",
+    ],
   },
 ];
 
