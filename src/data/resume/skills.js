@@ -85,6 +85,11 @@ const skills = [
     category: ["Web Development", "Python"],
   },
   {
+    title: "Django",
+    competency: 4,
+    category: ["Web Development", "Python"],
+  },
+  {
     title: "SQLAlchemy",
     competency: 3,
     category: ["Web Development", "Python"],
