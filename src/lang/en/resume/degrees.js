@@ -7,7 +7,7 @@ const degrees = [
     points: ["Led student council projects", "Managed teams up to 20 students"],
   },
   {
-    school: "Ecole 42 (Школа 21)",
+    school: "Ecole 42",
     degree: "Applied Computer Science",
     link: "https://www.42.fr",
     year: "2018-2022",
@@ -16,6 +16,7 @@ const degrees = [
       "Learned С programming, classic algorithms and data structures",
       "Worked with graphics, ray and path tracing",
       "Developed Java projects, encompassing Swing, Spring, Databases",
+      "Conducted and led the English club for those willing to learn it"
     ],
   },
   // {
