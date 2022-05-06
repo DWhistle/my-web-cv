@@ -26,7 +26,7 @@ const positions = [
   },
   {
     company: "Ticketland",
-    position: "Middle Java-developer",
+    position: "Java-developer",
     link: "https://www.ticketland.ru",
     daterange: "October 2019 - April 2020",
     points: [
