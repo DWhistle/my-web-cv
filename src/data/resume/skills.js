@@ -81,7 +81,7 @@ const skills = [
   },
   {
     title: "Flask",
-    competency: 3,
+    competency: 4,
     category: ["Web Development", "Python"],
   },
   {

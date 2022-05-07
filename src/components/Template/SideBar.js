@@ -26,7 +26,7 @@ const SideBar = () => {
             <a href="mailto:andrw.shibaev@gmail.com">andrw.shibaev@gmail.com</a>
           </p>
           <p>
-          <a href="tel:andrw.shibaev@gmail.com">+38267362057</a>
+          <a style={{fontFamily: "Arial"}} href="tel:andrw.shibaev@gmail.com">+38267362057</a>
           </p>
         </header>
       </section>
@@ -44,6 +44,7 @@ const SideBar = () => {
         />
         {window.location.pathname.includes("/resume") &&
           <section className="blurb">
+            <hr/>
             <Courses data={courses}></Courses>
           </section>
         }
