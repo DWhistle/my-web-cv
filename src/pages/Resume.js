@@ -84,21 +84,10 @@ const Resume = () => {
         <Education
           data={require(`lang/${context.locale}/resume/degrees`).default}
         />
-        <Skills skills={skills} categories={categories} />
+        {/* <Skills skills={skills} categories={categories} /> */}
         <References />
       </article>
     </Main>
   );
 };
-
-// function DownloadPdf () {
-//   const context = useContext(AppStateContext)
-
-//   const doc = new jsPDF();
-//   console.log(ReactDOMServer.renderToStaticMarkup(React.createElement(Resume, context)))
-
-//   // doc.html(ReactDOMServer.renderToStaticMarkup(ReactDOM.findDOMNode(this)));
-//   // doc.save("myDocument.pdf");
-// }
-
 export default Resume;

@@ -46,13 +46,14 @@
   }
 
   .courses {
-    padding-top: 1.6em;
+    // padding-top: 1.6em;
+    padding-left: 0;
+
     .title {
       text-align: center;
     }
     .course-list {
       text-align: center;
-
       h4 {
         white-space: nowrap;
       }
@@ -105,13 +106,25 @@
 }
 .courses .course-name {
   display: inline;
-  font-family: "Raleway", Helvetica, sans-serif;
+  // font-family: "Raleway", Helvetica, sans-serif;
   font-size: 0.7em;
   font-weight: 400;
   letter-spacing: 0.25em;
   line-height: 2.5;
   margin-top: -1em;
   text-transform: uppercase;
+}
+
+.courses .course-university {
+  display: inline;
+  // font-family: "Raleway", Helvetica, sans-serif;
+  font-size: 0.7em;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  line-height: 2.5;
+  margin-top: -1em;
+  text-transform: uppercase;
+  font-weight: 800;
 }
 
 .courses ul li {
@@ -122,12 +135,15 @@
   display: inline;
   // display: none;
 }
-
+.course-container {
+  list-style: inside;
+}
 @include breakpoint(small) {
   .course-dot {
     display: none;
   }
   .course-container a {
     display: block;
+    align-items: center;
   }
 }

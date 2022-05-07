@@ -15,7 +15,7 @@ const positions = [
   },
   {
     company: "Ticketland",
-    position: "Java-developer & Techlead",
+    position: "Backend-developer & Techlead",
     link: "https://www.ticketland.ru",
     daterange: "April 2020 - June 2021",
     points: [
@@ -26,7 +26,7 @@ const positions = [
   },
   {
     company: "Ticketland",
-    position: "Java-developer",
+    position: "Backend-developer",
     link: "https://www.ticketland.ru",
     daterange: "October 2019 - April 2020",
     points: [
@@ -37,7 +37,7 @@ const positions = [
   },
   {
     company: "Ticketland",
-    position: "Junior Java-developer",
+    position: "Junior Backend-developer",
     link: "https://www.ticketland.ru",
     daterange: "June 2019 - October 2019",
     points: ["Worked with xlsx-processing", "Built simple logic", "Fixed bugs"],
@@ -46,7 +46,7 @@ const positions = [
     company: "Ecole42",
     position: "Developer Intern",
     link: "https://www.42.fr",
-    daterange: "September 2018 - May 2019",
+    daterange: "October 2018 - May 2019",
     points: [
       "Programmed scripts for data processing",
       "Was responsible for service maintenance",

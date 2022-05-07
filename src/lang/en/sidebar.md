@@ -1,3 +1,4 @@
-Hey, I'm Andrey! Love solving mind-breakers and traveling.  
-Regular at hackathons, developing my development skills.  
-Here you could inspect some stuff I'm inspired by
+Hey, I'm Andrey! A backend engineer with a strong general knowledge and managerial experience.
+Programming language-agnostic, with an experience of production-level development using **Java/Spring**, **Python**, and **Scala**.
+
+**Ecole 42** program Alumni, passionate about solving non-ordinary problems, used to extending my competences along the way to solve them.

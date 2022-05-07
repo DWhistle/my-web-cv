@@ -6,14 +6,6 @@ import { FormattedMessage } from "react-intl";
 
 const getRows = (courses) =>
   courses
-    .sort((a, b) => {
-      let ret = 0;
-      if (a.university > b.university) ret = -1;
-      else if (a.university < b.university) ret = 1;
-      else if (a.number > b.number) ret = 1;
-      else if (a.number < b.number) ret = -1;
-      return ret;
-    })
     .map((course, idx) => (
       <Course
         data={course}
@@ -30,7 +22,7 @@ const Courses = ({ data }) => (
         <FormattedMessage id="ResumeCourses"></FormattedMessage>
       </h3>
     </div>
-    <ul className="course-list">{getRows(data)}</ul>
+    <div className="course-list">{getRows(data)}</div>
   </div>
 );
 
