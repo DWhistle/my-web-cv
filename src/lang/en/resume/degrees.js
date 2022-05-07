@@ -17,7 +17,10 @@ const degrees = [
     degree: "Data Exploration",
     link: "https://rea.ru",
     year: "2017-2020",
-    points: ["Led student council projects", "Managed teams up to 20 students"],
+    points: [
+      "Led student council projects", 
+      "Managed teams up to 20 students"
+    ],
   },
 
   // {

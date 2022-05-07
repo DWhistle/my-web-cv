@@ -61,7 +61,7 @@
   }
 
   .skills {
-    margin-top: 2em;
+    margin-top: 1em;
     .title {
       text-align: center;
       p {
@@ -70,7 +70,7 @@
     }
   }
   .references {
-    margin: 2em 0;
+    margin: 1em 0;
     .title {
       text-align: center;
     }
@@ -111,7 +111,7 @@
   font-weight: 400;
   letter-spacing: 0.25em;
   line-height: 2.5;
-  margin-top: -1em;
+  // margin-top: -1em;
   text-transform: uppercase;
 }
 
@@ -136,7 +136,7 @@
   // display: none;
 }
 .course-container {
-  list-style: inside;
+  list-style: none;
 }
 @include breakpoint(small) {
   .course-dot {
