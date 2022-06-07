@@ -10,6 +10,11 @@ const skills = [
     category: ["Web Development", "Languages"],
   },
   {
+    title: "Go",
+    competency: 3,
+    category: ["Web Development", "Languages"],
+  },
+  {
     title: "Kafka",
     competency: 4,
     category: ["Tools"],
