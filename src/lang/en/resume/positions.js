@@ -3,7 +3,7 @@ const positions = [
     company: "Yandex",
     position: "Backend-developer",
     link: "https://yandex.ru/",
-    daterange: "July 2021 - Present",
+    daterange: "July 2021 - May 2022",
     points: [
       "Optimized the latency of the most profit-generating backend application by 70%",
       "Developed distributed batch-processing applications",
