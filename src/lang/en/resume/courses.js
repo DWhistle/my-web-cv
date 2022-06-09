@@ -1,5 +1,10 @@
 const courses = [
   {
+    title: "Kubernetes Essentials",
+    link: "https://www.educative.io/path/kubernetes-essentials",
+    university: "Educative",
+  },
+  {
     title: "Highload Architect",
     link: "otus.ru",
     university: "OTUS",
