@@ -120,11 +120,6 @@ const skills = [
     category: ["Tools", "Java"],
   },
   {
-    title: "Jupyter",
-    competency: 3,
-    category: ["Data", "Python"],
-  },
-  {
     title: "C++",
     competency: 2,
     category: ["Languages"],
