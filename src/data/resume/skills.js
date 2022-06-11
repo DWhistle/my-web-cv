@@ -2,17 +2,17 @@ const skills = [
   {
     title: "Java",
     competency: 5,
-    category: ["Web Development", "Languages"],
+    category: ["Languages"],
   },
   {
     title: "Scala",
     competency: 4,
-    category: ["Web Development", "Languages"],
+    category: ["Languages"],
   },
   {
     title: "Go",
     competency: 3,
-    category: ["Web Development", "Languages"],
+    category: ["Languages"],
   },
   {
     title: "Kafka",
@@ -52,17 +52,17 @@ const skills = [
   {
     title: "Spring",
     competency: 4,
-    category: ["Web Development", "Java"],
+    category: ["Java"],
   },
   {
     title: "Python",
     competency: 5,
-    category: ["Web Development", "Languages"],
+    category: ["Languages"],
   },
   {
     title: "Shell",
     competency: 4,
-    category: ["Tools", "Languages"],
+    category: ["Tools"],
   },
   {
     title: "Redis",
@@ -82,27 +82,27 @@ const skills = [
   {
     title: "SQL",
     competency: 5,
-    category: ["Databases", "Languages"],
+    category: ["Databases"],
   },
   {
     title: "Flask",
     competency: 4,
-    category: ["Web Development", "Python"],
+    category: ["Python"],
   },
   {
     title: "Django",
     competency: 3,
-    category: ["Web Development", "Python"],
+    category: ["Python"],
   },
   {
     title: "SQLAlchemy",
     competency: 3,
-    category: ["Web Development", "Python"],
+    category: ["Python"],
   },
   {
     title: "Pandas",
     competency: 3,
-    category: ["Python", "Data"],
+    category: ["Python"],
   },
   {
     title: "Git",
@@ -112,12 +112,12 @@ const skills = [
   {
     title: "Maven",
     competency: 4,
-    category: ["Tools", "Java"],
+    category: ["Java"],
   },
   {
     title: "Gradle",
     competency: 2,
-    category: ["Tools", "Java"],
+    category: ["Java"],
   },
   {
     title: "C++",

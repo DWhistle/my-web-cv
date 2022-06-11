@@ -75,7 +75,7 @@ const Resume = () => {
 
               <button onClick={DownloadPdf}><FormattedMessage id="ResumeDownload"></FormattedMessage></button>
             </div>
-            <SkillsShortened skills={skills}></SkillsShortened>
+            <SkillsShortened skills={skills} categories={categories}></SkillsShortened>
           </div>
         </header>
         <Experience

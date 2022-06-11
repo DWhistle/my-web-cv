@@ -35,6 +35,7 @@ SkillsShortened.propTypes = {
 
 SkillsShortened.defaultProps = {
   skills: [],
+  categories: [],
 };
 
 export default SkillsShortened;
