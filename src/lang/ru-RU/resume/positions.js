@@ -1,6 +1,6 @@
 const positions = [
   {
-    company: "Yandex.Verticals",
+    company: "Yandex",
     position: "Backend-разработчик",
     link: "https://auto.ru/",
     daterange: "Июль 2021 - Настоящий момент",
