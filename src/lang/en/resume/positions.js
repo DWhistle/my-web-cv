@@ -1,5 +1,20 @@
 const positions = [
   {
+    company: "Constructor",
+    position: "Senior Software Engineer",
+    link: "https://constructor.io/",
+    daterange: "Jun 2022 - Present",
+    location: "California, United States · Remote",
+    points: [
+      "Led and implemented multiple product and system-critical features with involvement from several teams",
+      "Introduced several processes and practices at the company/department levels which improved service quality",
+      "Solely investigated and fixed multiple complex bugs and issues of Sev1 and Sev2",
+      "Part of the squad responsible for company-wide architectural decisions and standards",
+      "Interviewed, onboarded, and mentored developers",
+      "Supporing the real-time backend handling more than 10000 RPS",
+    ],
+  },
+  {
     company: "Yandex",
     position: "Backend-developer",
     link: "https://yandex.ru/",

@@ -24,7 +24,6 @@
     "gh-pages": "^3.2.3",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
-    "node-sass": "^6.0.1",
     "prop-types": "^15.7.2",
     "raw.macro": "^0.4.2",
     "react": "^17.0.2",
@@ -37,7 +36,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
     "react-snap": "^1.23.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "sass": "^1.69.3"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.14.1",

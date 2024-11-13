@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+    app:
+        build:
+          context: .
+          args: 
+            GITHUB_TOKEN: 123
+        ports:
+          - "3000:3000"
+        entrypoint: "npm run start"
+        volumes:
+          - .:/app
+        environment:
+          - GITHUB_TOKEN

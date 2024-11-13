@@ -1,13 +1,13 @@
 import { createContext, useState } from "react";
 import { IntlProvider } from "react-intl";
 import English from "lang/en/meta.json";
-import Russian from "lang/ru-ru/meta.json";
+import Russian from "lang/ru-RU/meta.json";
 import TEMPLATES from "lang/texts.js";
 import raw from "raw.macro";
 
 let local = navigator.language.toLocaleLowerCase();
-const RUSSIAN_LOCALES_OPTIONS = ["ru-ru", "ru"];
-const RUSSIAN_LOCALE = "ru-ru";
+const RUSSIAN_LOCALES_OPTIONS = ["ru-RU", "ru"];
+const RUSSIAN_LOCALE = "ru-RU";
 const ENGLISH_LOCALE = "en";
 let lang;
 if (RUSSIAN_LOCALES_OPTIONS.find((lang, i, arr) => lang === local)) {
