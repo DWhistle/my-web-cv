@@ -26,7 +26,7 @@ const SideBar = () => {
             <a href="mailto:andrw.shibaev@gmail.com">andrw.shibaev@gmail.com</a>
           </p>
           <p>
-          <a style={{fontFamily: "Arial"}} href="tel:andrw.shibaev@gmail.com">+38267362057</a>
+          <a style={{fontFamily: "Arial"}} href="tel:andrw.shibaev@gmail.com">+34672952475</a>
           </p>
         </header>
       </section>
