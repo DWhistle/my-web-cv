@@ -1,9 +1,13 @@
 ### Hey!
 
-I'm Andrey, Scala and Java developer in Yandex, ex team techlead in Ticketland LLC(MTS) and Ecole 42 alumni
+I'm Andrey, a backend engineer with strong general knowledge and managerial experience. Currently, I work as as Senior Backend Engineer at Constructor. Previously, I was a team tech lead at Ticketland LLC (MTS), Yandex, and I am an Ecole 42 alumni.
 
-My passion is traveling along the regions and remarkable places of  
-Russia, Europe and, hopefully, other contries :)
+I am capable of creating synchronous and asynchronous data processing system architectures, optimizing SQL and NoSQL databases with a particular focus on queries, implementing effective caching strategies, and leveraging the power of distributed computing. 
+
+I am well-versed in design and development, with hands-on experience in building systems from the ground up.
+Passionate about solving non-ordinary problems, I continuously extend my competencies to tackle new challenges.
+
+Outside of work, my passion is traveling through the regions and remarkable places of Russia, Europe, and hopefully, other countries. I enjoy exploring new cultures and landscapes along the way.
 
 ---
 
